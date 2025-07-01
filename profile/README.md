@@ -1,14 +1,16 @@
-## EJDA Chat
+# 👋 Bienvenue sur le profil GitHub officiel de EJDA Chat
 
-Bienvenue sur le profil officiel de EJDA Chat. Nous sommes une équipe d'élèves dévoués à créer des outils innovants et accessibles pour faciliter la communication, l'entraide et l'apprentissage au sein de la communauté scolaire.
+Nous sommes une équipe d’élèves passionnés qui conçoit des outils open source pour améliorer la communication, la productivité et l’apprentissage collaboratif. Notre mission est de rendre la technologie accessible à tous à travers des projets simples, efficaces et bien documentés.
 
-<!--
+Nous avons créé [EJDA Chat](https://github.com/ejda-chat/ejda-chat), une application populaire pour l’institution Sainte Jeanne d’Arc située à Mulhouse, créée par des élèves, pour des élèves.
 
-**Here are some ideas to get you started:**
+Voici nos objectifs:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- **🛠️ Projets open source** : Tous nos dépôts sont publics et ouverts aux contributions. Que vous soyez débutant ou confirmé, vous êtes les bienvenus !
+
+- **📚 Documentation** : Chaque projet contient une documentation claire pour vous aider à comprendre, utiliser et contribuer facilement.
+
+- **🤝 Contributions** : Vous pouvez proposer des idées, signaler des bugs ou soumettre des pull requests. Consultez nos guides de contribution pour en savoir plus.
+
+- **🌍 Notre vision** : Créer un écosystème open source éducatif, transparent et centré sur la communauté.
+
